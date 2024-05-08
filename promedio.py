@@ -4,7 +4,7 @@ def promedio(num):
     suma += i
   return suma/len(num)
 
-print(f"El promedio ya es: {promedio([1, 2, 3])}")
+print(f"El promedio cambiado es: {promedio([1, 2, 3])}")
 
 
 
